@@ -6,7 +6,7 @@ class addition{
         double num1 = sc.nextInt();
         System.out.println("Enter number 2");
         double num2 = sc.nextInt();
-        System.out.println("Enter number 3");
+        System.out.println("Enter number 22");
         double num3 = sc.nextInt();
         System.out.println(num1+num2+num3);
 
